@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+
+
+body { background-color: #bbd0f7; }
+
+a, a:hover { color: #ff66cc; }
+
+
+
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    background-color: #ff66cc;
+	
+}
+
+.nav-item:hover {
+	background-color: #e2e2e2;
+}
+
+.pink {
+	background-color: #ff66cc;
+}
+
+h3{color: white;
+background-color: #ff66cc;
+text-align: center;
+font-family: Impact, Charcoal, sans-serif;
+
+}
+h1 {color: #ff66cc;
+text-align: center;
+font-family: Impact, Charcoal, sans-serif;
+}
+
